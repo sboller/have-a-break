@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/www.cevi.ch"
+                 "value":"test.json"
                 }],
          "type":"tilelayer",
          "visible":true,
