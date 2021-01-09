@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"https:\/\/www.cevi.ch"
                 }],
          "type":"tilelayer",
          "visible":true,
