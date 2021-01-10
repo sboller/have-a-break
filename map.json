@@ -1980,23 +1980,6 @@
                         }]
                 }, 
                 {
-                 "animation":[
-                        {
-                         "duration":100,
-                         "tileid":0
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":1
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":2
-                        }, 
-                        {
-                         "duration":100,
-                         "tileid":3
-                        }],
                  "id":3,
                  "objectgroup":
                     {
@@ -2026,7 +2009,13 @@
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }],
